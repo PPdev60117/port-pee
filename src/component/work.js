@@ -150,7 +150,7 @@ export default function Work() {
     <div className='container' ref={ref}>
         <h1 className='text'>MY PROJECT</h1>
         <div className='box-work-1'>
-            <a className='link-1' href='https://portforio-pee.onrender.com/s'></a>
+            <a className='link-1' href='https://portforio-pee.onrender.com/'></a>
             <div className='project-1'></div>
             <p>Weather App</p>
         </div>
