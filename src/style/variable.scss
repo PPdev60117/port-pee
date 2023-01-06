@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
+$kanit : 'Kanit', sans-serif;
+
+//color
+
+$white : #fff;
+$black : rgb(29,29,29);
+$red : #EB6440;
+$darkblue : #497174;
+$secound :#D6E4E5;
+$bg:#EFF5F5;
+
+//spacing
+$md : 16px;
+$lg : 32px;
+
+//border-radius
+$borderRadius : 12px;
+
+//header-height
+$headerHeight : 70px;
+
+
+@mixin breakpoint($point){
+    @if $point == md {
+        //786px
+        @media(min-width:48em) {
+            @content;
+        }
+    }
+}
