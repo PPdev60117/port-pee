@@ -152,13 +152,13 @@ export default function Work() {
         <div className='box-work-1'>
             <a className='link-1' href='https://fontend-mern.onrender.com/'></a>
             <div className='project-1'></div>
-            <p>Movie website</p>
+            <p>Blogs web-application</p>
         </div>
 
         <div className='box-work-2'>
             <a className='link-1' href='https://646cf40ddfd26626e8bd62f4--resplendent-tiramisu-ed8e9e.netlify.app/'></a>
             <div className='project-2'></div>
-            <p>Blog web appication</p>
+            <p>Movie website</p>
         </div>
 
         <div className='box-work-3'>
