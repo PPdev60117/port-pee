@@ -130,7 +130,7 @@
 }
 
 .box-work-1:hover::after{
-    content: 'wheather App';
+    content: 'Blogs';
     color: aliceblue;
     font-size: 20px;
     width: 100%;
@@ -161,7 +161,7 @@
 }
 
 .box-work-2:hover::after{
-    content: 'CRUD';
+    content: 'MOVIE WEBAPP';
     color: aliceblue;
     font-size: 30px;
     width: 100%;
