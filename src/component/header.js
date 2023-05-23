@@ -39,7 +39,7 @@ export default function Header() {
   return (
     <div className={classes.header}>
         <div className={classes.header__content}>
-            <h1 className={classes.header__content__logo}>LOGO</h1>
+            <a href='#home'><h1 className={classes.header__content__logo}>PEERAPAT</h1></a>
             
 
             <nav className={`${classes.header__content__nav} ${menuOpen ? classes.isMenu : ""}`} >

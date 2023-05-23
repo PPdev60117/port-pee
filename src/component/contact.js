@@ -11,9 +11,9 @@ export default function Contact() {
             </div>
 
             <ul>
-                <li><a href='https://web.facebook.com/peerapat.sattarattana/'><TiSocialFacebook/></a></li>
-                <li><a href='https://www.instagram.com/as_peerinnn/'><TiSocialInstagram/></a></li>
-                <li><a><TiSocialGooglePlus/></a></li>
+                <a href='https://web.facebook.com/peerapat.sattarattana/' className='contact'><TiSocialFacebook/></a>
+                <a href='https://www.instagram.com/as_peerinnn/' className='contact'><TiSocialInstagram/></a>
+                <a className='contact' onClick={()=>{alert('pee.lovepeem@gmail.com')}}><TiSocialGooglePlus/></a>
             </ul>
         </div>
     </div>

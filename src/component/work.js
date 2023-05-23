@@ -150,15 +150,15 @@ export default function Work() {
     <div className='container' ref={ref}>
         <h1 className='text'>MY PROJECT</h1>
         <div className='box-work-1'>
-            <a className='link-1' href='https://portforio-pee.onrender.com/s'></a>
+            <a className='link-1' href='https://portforio-pee.onrender.com/'></a>
             <div className='project-1'></div>
-            <p>Weather App</p>
+            <p>Movie website</p>
         </div>
 
         <div className='box-work-2'>
             <a className='link-1' href='https://fontend-mern.onrender.com/'></a>
             <div className='project-2'></div>
-            <p>CRUD</p>
+            <p>Blog web appication</p>
         </div>
 
         <div className='box-work-3'>

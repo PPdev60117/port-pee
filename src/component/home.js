@@ -29,7 +29,7 @@ export default function Home() {
         <div className='context' ref={ref}> 
             <p className='hello'>Hello I'm <b>Peerapat</b></p>
             <p className='hello'>Front-end DEVELOPER</p>
-            <button><a href='#contact'>Contact</a></button>
+            <a href='#contact'><button>Contact</button></a>
         </div>
 
         <div className='area' >
