@@ -164,13 +164,13 @@ export default function Work() {
         <div className='box-work-3'>
             <a className='link-1' href='https://unsplashclone-nextjs.vercel.app/'></a>
             <div className='project-3'></div>
-            <p>please full your project</p>
+            <p>Unsplash-clone</p>
         </div>
 
         <div className='box-work-4'>
-            <a className='link-1' href='#contact'></a>
+            <a className='link-1' href=https://weather-app-eosin-chi.vercel.app/'></a>
             <div className='project-4'></div>
-            <p>please full your project</p>
+            <p>Weater-App</p>
         </div>
     </div>
   )
