@@ -74,14 +74,14 @@
 }
 
 .project-3{
-    background-image: url('https://cdn.pixabay.com/photo/2019/03/11/00/15/rainbow-4047523_960_720.jpg');
+    background-image: url('https://images.unsplash.com/photo-1682695794947-17061dc284dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80');
     width: 100%;
     height: 80%;
     background-size: cover;
 }
 
 .project-4{
-    background-color: rgb(184, 179, 179);
+    background-image: url('https://images.unsplash.com/photo-1530563885674-66db50a1af19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80');
     width: 100%;
     height: 80%;
     background-size: cover;
@@ -193,7 +193,7 @@
 }
 
 .box-work-3:hover::after{
-    content: '+';
+    content: 'Unsplash-Clone';
     color: aliceblue;
     font-size: 60px;
     width: 100%;
@@ -224,7 +224,7 @@
 }
 
 .box-work-4:hover::after{
-    content: '+';
+    content: 'Weather-app';
     color: aliceblue;
     font-size: 60px;
     width: 100%;
