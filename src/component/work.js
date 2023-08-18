@@ -168,7 +168,7 @@ export default function Work() {
         </div>
 
         <div className='box-work-4'>
-            <a className='link-1' href=https://weather-app-eosin-chi.vercel.app/'></a>
+            <a className='link-1' href='https://weather-app-eosin-chi.vercel.app/'></a>
             <div className='project-4'></div>
             <p>Weater-App</p>
         </div>
