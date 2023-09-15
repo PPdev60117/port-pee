@@ -195,7 +195,7 @@
 .box-work-3:hover::after{
     content: 'Unsplash-Clone';
     color: aliceblue;
-    font-size: 60px;
+    font-size: 40px;
     width: 100%;
     height: 100%;
     background-color: black;
@@ -226,7 +226,7 @@
 .box-work-4:hover::after{
     content: 'Weather-app';
     color: aliceblue;
-    font-size: 60px;
+    font-size: 40px;
     width: 100%;
     height: 100%;
     background-color: black;
